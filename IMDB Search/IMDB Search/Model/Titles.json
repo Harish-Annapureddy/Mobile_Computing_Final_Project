@@ -1,0 +1,275 @@
+[
+  {
+    "Title": "JOKER",
+    "Year": "2019",
+    "Poster": "JOKER.jpg",
+    "imdbID": "https://www.imdb.com/title/tt7286456/",
+    "Genre": "Crime"
+  },
+  {
+    "Title": "US",
+    "Year": "2019",
+    "Poster": "US.jpg",
+    "imdbID": "https://www.imdb.com/title/tt6857112/",
+    "Genre": "Thriller"
+  },
+  {
+    "Title": "Dumbo",
+    "Year": "2019",
+    "Poster": "Dumbo.jpg",
+    "imdbID": "https://www.imdb.com/title/tt3861390/",
+    "Genre": "Fantasy"
+  },
+  {
+    "Title": "Fatman",
+    "Year": "2020",
+    "Poster": "Fatman.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10310140/",
+    "Genre": "Comedy"
+  },
+  {
+    "Title": "The Devil All the Time",
+    "Year": "2020",
+    "Poster": "TheDevilAlltheTime.jpg",
+    "imdbID": "https://https://www.imdb.com/title/tt7395114/",
+    "Genre": "Crime"
+  },
+  {
+    "Title": "Knives Out",
+    "Year": "2019",
+    "Poster": "KnivesOut.jpg",
+    "imdbID": "https://www.imdb.com/title/tt8946378//",
+    "Genre": "Crime"
+  },
+  {
+    "Title": "The Irishman",
+    "Year": "2019",
+    "Poster": "TheIrishman.jpg",
+    "imdbID": "https://www.imdb.com/title/tt1302006//",
+    "Genre": "Crime"
+  },
+  {
+    "Title": "Honest Thief",
+    "Year": "2020",
+    "Poster": "HonestThief.jpg",
+    "imdbID": "https://www.imdb.com/title/tt1838556/",
+    "Genre": "Crime"
+  },
+  {
+    "Title": "The Informer",
+    "Year": "2019",
+    "Poster": "TheInformer.jpg",
+    "imdbID": "https://www.imdb.com/title/tt1833116/",
+    "Genre": "Crime"
+  },
+  {
+    "Title": "Love Aaj Kal",
+    "Year": "2020",
+    "Poster": "LoveAajKal.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10023024/",
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Seeru",
+    "Year": "2020",
+    "Poster": "Seeru.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10022990/",
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Guilty",
+    "Year": "2020",
+    "Poster": "Guilty.jpg",
+    "imdbID": "https://www.imdb.com/title/tt6742252/",
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Breaking Surface",
+    "Year": "2020",
+    "Poster": "BreakingSurface.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10081762/",
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Road to Red",
+    "Year": "2020",
+    "Poster": "Roadtored.jpg",
+    "imdbID": "https://www.imdb.com/title/tt0926132/",
+    "Genre": "Action"
+  },
+  {
+    "Title": "Fantasy Island",
+    "Year": "2020",
+    "Poster": "FantasyIsland.jpg",
+    "imdbID": "https://www.imdb.com/title/tt0983946/",
+    "Genre": "Action"
+  },
+  {
+    "Title": "Agent Jade Black",
+    "Year": "2020",
+    "Poster": "AgentJadeBlack.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10275080/",
+    "Genre": "Action"
+  },
+  {
+    "Title": "Survive the Night",
+    "Year": "2020",
+    "Poster": "SurvivetheNight.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10303324/",
+    "Genre": "Action"
+  },
+  {
+    "Title": "Walter",
+    "Year": "2020",
+    "Poster": "Walter.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10300704/",
+    "Genre": "Action"
+  },
+  {
+    "Title": "Homeward",
+    "Year": "2020",
+    "Poster": "Homeward.jpg",
+    "imdbID": "https://www.imdb.com/title/tt11766318/",
+    "Genre": "Animation"
+  },
+  {
+    "Title": "Jungle Beat: The Movie",
+    "Year": "2020",
+    "Poster": "JungleBeat.jpg",
+    "imdbID": "https://www.imdb.com/title/tt12139700/",
+    "Genre": "Animation"
+  },
+  {
+    "Title": "Scoob!",
+    "Year": "2020",
+    "Poster": "Scoob.jpg",
+    "imdbID": "https://www.imdb.com/title/tt3152592/",
+    "Genre": "Animation"
+  },
+  {
+    "Title": "Acela",
+    "Year": "2020",
+    "Poster": "Acela.jpg",
+    "imdbID": "https://www.imdb.com/title/tt9646548/",
+    "Genre": "Animation"
+  },
+  {
+    "Title": "Dog Town",
+    "Year": "2019",
+    "Poster": "DogTown.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10187766/",
+    "Genre": "Animation"
+  },
+  {
+    "Title": "Fighting with My Family",
+    "Year": "2019",
+    "Poster": "FightingwithmyFamily.jpg",
+    "imdbID": "https://www.imdb.com/title/tt6513120/",
+    "Genre": "Comedy"
+  },
+  {
+    "Title": "Les Misérables",
+    "Year": "2019",
+    "Poster": "LesMiserables.jpg",
+    "imdbID": "https://www.imdb.com/title/tt7395114/",
+    "Genre": "Comedy"
+  },
+  {
+    "Title": "The Prodigy",
+    "Year": "2019",
+    "Poster": "TheProdigy.jpg",
+    "imdbID": "https://www.imdb.com/title/tt4504044/",
+    "Genre": "Horrer"
+  },
+  {
+    "Title": "Happy Death Day 2U",
+    "Year": "2019",
+    "Poster": "HappyDeathDay2U.jpg",
+    "imdbID": "https://www.imdb.com/title/tt8155288/",
+    "Genre": "Horrer"
+  },
+  {
+    "Title": "Mercy Black",
+    "Year": "2019",
+    "Poster": "MercyBlack.jpg",
+    "imdbID": "https://www.imdb.com/title/tt8758086/",
+    "Genre": "Horrer"
+  },
+  {
+    "Title": "The Grudge",
+    "Year": "2020",
+    "Poster": "TheGrudge.jpg",
+    "imdbID": "https://www.imdb.com/title/tt3612126/",
+    "Genre": "Horrer"
+  },
+  {
+    "Title": "The Turning",
+    "Year": "2020",
+    "Poster": "TheTurning.jpg",
+    "imdbID": "https://www.imdb.com/title/tt7510346/",
+    "Genre": "Horrer"
+  },
+  {
+    "Title": "The Invisible Man",
+    "Year": "2020",
+    "Poster": "TheInvisibleMan.jpg",
+    "imdbID": "https://www.imdb.com/title/tt1051906/",
+    "Genre": "Horrer"
+  },
+  {
+    "Title": "Black Water: Abyss",
+    "Year": "2020",
+    "Poster": "BlackWater.jpg",
+    "imdbID": "https://www.imdb.com/title/tt6742252/",
+    "Genre": "Horrer"
+  },
+  {
+    "Title": "Captive State",
+    "Year": "2019",
+    "Poster": "CaptiveState.jpg",
+    "imdbID": "https://www.imdb.com/title/tt5968394/",
+    "Genre": "Sci-fi"
+  },
+  {
+    "Title": "Iron Sky: The Coming Race",
+    "Year": "2019",
+    "Poster": "IronSky.jpg",
+    "imdbID": "https://www.imdb.com/title/tt3038708/",
+    "Genre": "Sci-fi"
+  },
+  {
+    "Title": "Godzilla: King of the Monsters",
+    "Year": "2020",
+    "Poster": "GodzillaKingoftheMonsters.jpg",
+    "imdbID": "https://www.imdb.com/title/tt3741700/",
+    "Genre": "Sci-fi"
+  },
+  {
+    "Title": "The Last Boy",
+    "Year": "2019",
+    "Poster": "TheLastBoy.jpg",
+    "imdbID": "https://www.imdb.com/title/tt4157728/",
+    "Genre": "Sci-fi"
+  },
+  {
+    "Title": "Survive the Night",
+    "Year": "2020",
+    "Poster": "SurvivetheNight.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10303324/",
+    "Genre": "Action"
+  },
+  {
+    "Title": "Walter",
+    "Year": "2020",
+    "Poster": "Walter.jpg",
+    "imdbID": "https://www.imdb.com/title/tt10300704/",
+    "Genre": "Action"
+  },
+  {
+    "Title": "Homeward",
+    "Year": "2020",
+    "Poster": "Homeward.jpg",
+    "imdbID": "https://www.imdb.com/title/tt11766318/",
+    "Genre": "Animation"
+  }
+]
